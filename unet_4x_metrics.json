@@ -1,0 +1,10 @@
+{
+    "zero_filled_psnr": 21.152585066411703,
+    "zero_filled_ssim": 0.49913580619036346,
+    "unet_psnr": 24.877930125694544,
+    "unet_ssim": 0.5876948096687332,
+    "psnr_gain": 3.7253450592828408,
+    "ssim_gain": 0.08855900347836976,
+    "best_validation_loss": 0.04043509024712774,
+    "best_epoch": 9
+}
