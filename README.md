@@ -8,7 +8,7 @@ A research project on accelerated multi-coil brain MRI reconstruction using the 
 2. 4× k-space undersampling and zero-filled reconstruction.
 3. U-Net and ResUNet reconstruction.
 4. GAN-based reconstruction experiments.
-5. Streamlit/Hugging Face deployment.
+5. Streamlit app deployment.
 
 ## Dataset
 
